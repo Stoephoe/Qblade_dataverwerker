@@ -39,7 +39,7 @@ Installeer deze bibliotheken als je ze nog niet hebt geïnstalleerd.
 1. Clone deze Git-repository naar je lokale machine:
 
    ```bash
-   git clone https://github.com/jouw-gebruikersnaam/data-processing-repo.git
+   git clone [https://github.com/Stoephoe/Qblade_dataverwerker.git]
    ```
 
 2. Navigeer naar de gekloonde repository:
