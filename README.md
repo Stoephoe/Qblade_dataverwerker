@@ -3,7 +3,8 @@ Hier is de bijgewerkte README met de toevoegingen:
 ```markdown
 # Data Processing and Visualization Script for Q-Blade Simulations
 
-Dit Git-repository bevat een Python-script voor het verwerken en visualiseren van gegevens uit Q-Blade simulaties. Het script is primair bedoeld voor het opschonen van cP- en cT-gegevens en het genereren van de cP/cT-prestatiegrafiek voor een turbinebladontwerp.
+Dit Git-repository bevat een Python-script voor het verwerken en visualiseren van gegevens uit Q-Blade simulaties.
+Het script is primair bedoeld voor het opschonen van cP- en cT-gegevens en het genereren van de cP/cT-prestatiegrafiek voor een turbinebladontwerp.
 
 Dit script is ontwikkeld in opdracht van Cleanmobility HvA voor turbinebladontwerp en is bedoeld om de volgende taken uit te voeren:
 
